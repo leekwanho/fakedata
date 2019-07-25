@@ -1,4 +1,9 @@
 {
-  "id": "myid",
-  "key": "mykey"
+	"login": {
+		"id": "myid",
+		"key": "mykey"
+	},
+	"signup": {
+		"id": "myid"
+	}
 }
